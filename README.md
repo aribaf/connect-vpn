@@ -1,6 +1,6 @@
 # Connect VPN
 
-Connect VPN is a lightweight and user-friendly VPN app built with Java/Kotlin.  
+Connect VPN is a lightweight and user-friendly VPN app built with Flutter.  
 It helps users browse securely and protect their online privacy with a single click.
 
 ---
